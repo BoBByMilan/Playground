@@ -1,1 +1,1 @@
-# Parallel_JAVA
+# Playground to study
